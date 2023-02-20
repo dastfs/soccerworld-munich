@@ -1,6 +1,6 @@
 import useMediaQuery from "@/hooks/useMediaQuery";
-import ActionButton from "@/shared/ActionButton";
-import { SelectedPage } from "@/shared/types";
+import ActionButton from "@/shared/components/ActionButton";
+import { SelectedPage } from "@/shared/types/types";
 // import HomePageText from "@/assets/HomePageText.png";
 import HomePageText from "@/assets/SoccerWorldLogo.png";
 import HomePageGraphic from "@/assets/player.png";

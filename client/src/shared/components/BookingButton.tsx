@@ -1,6 +1,6 @@
 import { useContext } from "react";
 import AnchorLink from "react-anchor-link-smooth-scroll";
-import { BookingContext } from "./ShowBookingContext";
+import { BookingContext } from "../contexts/ShowBookingContext";
 
 type Props = {
   children: React.ReactNode;

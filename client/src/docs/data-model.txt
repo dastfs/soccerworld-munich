@@ -1,0 +1,31 @@
+sports
+{
+    id;
+    name;
+}
+
+courts
+{
+    id;
+    name;
+}
+
+booking
+{
+    id;
+    date;
+    time;
+    email; 
+}
+
+timetable
+{
+    {
+     courtId;
+     slots: [
+        booking
+        booking
+        booking
+     ]
+    }
+}

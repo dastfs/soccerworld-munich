@@ -1,9 +1,9 @@
-import { SelectedPage, ClassType } from "@/shared/types";
+import { SelectedPage, ClassType } from "@/shared/types/types";
 import image1 from "@/assets/services/football_pitch.jpeg";
 import image2 from "@/assets/services/sportsbar.jpeg";
 import image3 from "@/assets/services/squash.jpeg";
 import { motion } from "framer-motion";
-import HText from "@/shared/HText";
+import HText from "@/shared/components/HText";
 import Class from "./Class";
 
 const classes: Array<ClassType> = [

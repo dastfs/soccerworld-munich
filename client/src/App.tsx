@@ -1,10 +1,10 @@
 import { useEffect, useState } from "react";
 import Navbar from "@/scenes/navbar";
-import { SelectedPage } from "./shared/types";
+import { SelectedPage } from "./shared/types/types";
 import Home from "./scenes/home";
 import Benefits from "./scenes/benefits";
 import OurClasses from "./scenes/ourClasses";
-import { BookingContext } from "./shared/ShowBookingContext";
+import { BookingContext } from "./shared/contexts/ShowBookingContext";
 import Booking from "./scenes/book";
 
 function App() {

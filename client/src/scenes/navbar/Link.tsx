@@ -1,5 +1,5 @@
 import AnchorLink from "react-anchor-link-smooth-scroll";
-import { SelectedPage } from "@/shared/types";
+import { SelectedPage } from "@/shared/types/types";
 import useMediaQuery from "@/hooks/useMediaQuery";
 
 type Props = {

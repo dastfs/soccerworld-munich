@@ -1,6 +1,8 @@
 node_modules
 *.log
-
+client/node_modules
+server/node_modules
+server/dist
 # Output directory
 dist
 
