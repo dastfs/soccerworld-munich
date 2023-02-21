@@ -1,5 +1,4 @@
 import { useContext } from "react";
-import AnchorLink from "react-anchor-link-smooth-scroll";
 import { BookingContext } from "../contexts/ShowBookingContext";
 
 type Props = {

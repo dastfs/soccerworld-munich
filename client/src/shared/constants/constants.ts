@@ -1,4 +1,4 @@
-export namespace TestData {
+export namespace BookingContstants {
   export const timeStart = 900;
   export const timeEnd = 2200;
   export const step = 100;
